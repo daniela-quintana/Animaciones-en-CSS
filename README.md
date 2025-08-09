@@ -1,4 +1,4 @@
-# 📄 Desafío 3 - Electric Car Store - Daniela Quintana
+# 📄 Prueba - Animaciones en CSS - Daniela Quintana
 
 ### 🚀 El sitio está desplegado en GitHub Pages:
 
